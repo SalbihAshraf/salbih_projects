@@ -1,3 +1,6 @@
 [submodule "salbihgames"]
 	path = salbihgames
 	url = https://github.com/SalbihAshraf/salbihgames.git
+[submodule "salbih.com"]
+	path = salbih.com
+	url = https://github.com/SalbihAshraf/salbih.com.git
